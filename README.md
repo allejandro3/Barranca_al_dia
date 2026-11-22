@@ -92,6 +92,4 @@ Las contribuciones son bienvenidas. Si deseas mejorar este proyecto:
 
 Desarrollado como proyecto universitario / personal de reportes ciudadanos.
 
----
 
-> 💡 **Tip:** Si vas a publicar la app en producción, recuerda configurar el archivo `keystore.properties` para firmar el APK de release y nunca subas tus claves de firma al repositorio.
