@@ -1,0 +1,68 @@
+# Android
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+/.idea/*.xml
+/.idea/
+/build
+/app/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# OSX
+.DS_Store
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Kotlin
+.kotlin/
+
+# Gradle
+.gradle/
+build/
+
+# Signed APK/AAB
+*.apk
+*.aab
+*.apks
+
+# Keystore files
+*.keystore
+*.jks
+
+# Google Services (if you add Firebase later)
+google-services.json
+google-services-debug.json
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Signing configs
+signing/
+keystore.properties
+
+# Misc
+*.log
+*.tmp
+*.temp
+out/
+
+# Eclipse
+.project
+.classpath
+.settings/
